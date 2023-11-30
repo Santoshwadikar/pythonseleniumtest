@@ -1,0 +1,14 @@
+https://www.python.org/ftp/python/3.12.0/python-3.12.0-amd64.exe
+
+
+https://download.jetbrains.com/python/pycharm-edu-2022.2.2.exe?_gl=1*1h3mjcq*_ga*MTQyMDk1Njk0MC4xNjc2MTkzMDk3*_ga_9J976DJZ68*MTcwMTIyNTI3NC4xNi4wLjE3MDEyMjUyNzQuNjAuMC4w&_ga=2.58301226.1497412829.1701225275-1420956940.1676193097
+
+**************************************************
+30/11/2023
+
+https://sqatools.in/python-basic-programs/
+
+
+repositorty: pythonseleniumtest
+username:Santoshwadikar
+github password:python@9900
