@@ -1,0 +1,21 @@
+num1 = 10
+prime = True
+for i in range(2, num1):  #5:2,3,4
+    # i = 2, num1 = 10 : 10%2 == 0
+    # i = 3, num1 = 11 : 11%3 == 0
+    print("i :", i)
+    if num1%i == 0: #
+        prime = False
+        #break
+
+
+if prime:
+    print("this is prime number :", num1)
+else:
+    print("this is not a prime number :", num1)
+
+
+
+
+Ture & false doubt
+#######################################

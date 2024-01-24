@@ -12,3 +12,10 @@ https://sqatools.in/python-basic-programs/
 repositorty: pythonseleniumtest
 username:Santoshwadikar
 github password:python@9900
+
+https://github.com/Santoshwadikar/pythonseleniumtest
+
+
+
+
+

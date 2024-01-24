@@ -1,0 +1,9 @@
+#10). Python program to validate user_id in the list of user_ids.
+
+user=int(input("please enter user id:"))
+
+for user_id in range (1,10):
+    if user in user_id:
+        print("valid user")
+    else:
+        print("invalid user")
